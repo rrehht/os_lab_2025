@@ -1,0 +1,7 @@
+*.o
+sequential
+parallel
+sequential_min_max
+parallel_min_max
+launcher
+result_*.txt
